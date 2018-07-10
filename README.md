@@ -8,3 +8,5 @@ MinimalMovesToString.py is a solution to the question https://practice.geeksforg
 PathsToOrigin.py is a solution to https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0
 
 SumOfSubStrings.py is a solution to https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number/0
+
+MinStepsToReachNum.py is a solution to https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number/0
