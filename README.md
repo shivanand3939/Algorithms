@@ -12,3 +12,5 @@ SumOfSubStrings.py is a solution to https://practice.geeksforgeeks.org/problems/
 MinStepsToReachNum.py is a solution to https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number/0
 
 distinctPalindromeSeq.py is a solution to https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0
+
+MaxDiffOnesZeros.py is a solution to https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string/0
