@@ -14,3 +14,5 @@ MinStepsToReachNum.py is a solution to https://practice.geeksforgeeks.org/proble
 distinctPalindromeSeq.py is a solution to https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0
 
 MaxDiffOnesZeros.py is a solution to https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string/0
+
+MinCoinsToaSum.py is a solution to Minimum Coins required to add up to a Given Sum question
