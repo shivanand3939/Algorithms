@@ -16,3 +16,5 @@ distinctPalindromeSeq.py is a solution to https://practice.geeksforgeeks.org/pro
 MaxDiffOnesZeros.py is a solution to https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string/0
 
 MinCoinsToaSum.py is a solution to Minimum Coins required to add up to a Given Sum question
+
+IsStingKPalindrome.py is a solution to https://practice.geeksforgeeks.org/problems/find-if-string-is-k-palindrome-or-not/0
