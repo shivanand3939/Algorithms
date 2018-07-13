@@ -18,3 +18,5 @@ MaxDiffOnesZeros.py is a solution to https://practice.geeksforgeeks.org/problems
 MinCoinsToaSum.py is a solution to Minimum Coins required to add up to a Given Sum question
 
 IsStingKPalindrome.py is a solution to https://practice.geeksforgeeks.org/problems/find-if-string-is-k-palindrome-or-not/0
+
+CloseToPerfection.py is a solution to https://practice.geeksforgeeks.org/problems/close-to-perfection/0
