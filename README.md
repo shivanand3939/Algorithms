@@ -24,3 +24,5 @@ CloseToPerfection.py is a solution to https://practice.geeksforgeeks.org/problem
 PickLastCoinToWin.py is a solution to https://practice.geeksforgeeks.org/problems/geek-and-its-game-of-coins/0
 
 PainterPartitionProblem.py is a solution to https://practice.geeksforgeeks.org/problems/the-painters-partition-problem/0
+
+MinimumStepsToMinimiseN.py is a solution to https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0 
